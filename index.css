@@ -28,7 +28,7 @@
 #del h1 {
   font-size: 80px;
   text-align: center;
-  font-family: "Lobster";
+  font-family: "Oleo Script Swash Caps";
   font-weight: 500;
 }
 #del p {
@@ -69,4 +69,14 @@
 #tog{
   margin-left: 100px;
   padding-top: 110px;
+}
+#abt{
+  float: right;
+  padding-top: 105px;
+  margin-right: 300px;
+}
+#abt h1{
+  font-family: "Oleo Script Swash Caps";
+  font-weight: 300px;
+  font-size: 60px;
 }
