@@ -49,9 +49,22 @@
 }
 #sec{
   border: 2px solid red;
-  height: 800px;
+  height: 1800px;
   width: 90.1%;
 }
-#fork img{
-  height: 800px;
+#fork {
+  height: 470px;
+  padding-bottom: 130px;
 }
+#chap{
+  height: 219px;
+  padding-bottom: 381px;
+  margin-left: 35px;
+ 
+}
+#mel{
+  height: 219px;
+  margin-left: -249px;
+  padding-bottom: 130px;
+}
+
