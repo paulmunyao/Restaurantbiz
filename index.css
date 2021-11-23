@@ -47,3 +47,11 @@
 #del{
   padding-top: 100px;
 }
+#sec{
+  border: 2px solid red;
+  height: 800px;
+  width: 90.1%;
+}
+#fork img{
+  height: 800px;
+}
