@@ -130,14 +130,31 @@
   margin-left: 750px;
   margin-top: 20px;
 }
+#four{
+  background-color: white;
+}
 #spi img {
   height: 250px;
   width: 250px;
   margin-left: 120px;
+  padding-top: 50px;
 }
 .rate{
   font-size: 20px;
   margin-left: 140px;
   margin-top: 20px;
   color: #ee7600;
+}
+#cey{
+  margin-left: 140px;
+}
+#cey h3{
+  font-family: "Oleo Script Swash Caps";
+  font-size: 30px;
+  font-weight: lighter;
+}
+#cey p{
+  font-family: "Roboto";
+  color: grey;
+  font-size: 22px;
 }
