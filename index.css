@@ -75,15 +75,12 @@
   padding-top: 10px;
   margin-right: 240px;
 }
-#ln{
-  text-underline-offset: 0.3em;
-  text-decoration-color: #ee7600;
-}
 #abt h1{
   font-family: "Oleo Script Swash Caps";
   font-weight: 300px;
   font-size: 60px;
   font-weight: lighter;
+  border-bottom: 3px solid #ee7600;
 }
 #abt p{
   font-size: 21px;
@@ -100,5 +97,9 @@
 #three{
   border: 2px solid red;
   height: 720px;
-  width: 90.1%;
+  width: 90.1
+}
+#men{
+  text-align: center;
+  padding-top: 70px;
 }
