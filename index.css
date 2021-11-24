@@ -130,11 +130,14 @@
   margin-left: 750px;
   margin-top: 20px;
 }
-.rate :{
-  size: 7px;
-}
 #spi img {
   height: 250px;
   width: 250px;
   margin-left: 120px;
+}
+.rate{
+  font-size: 20px;
+  margin-left: 140px;
+  margin-top: 20px;
+  color: #ee7600;
 }
