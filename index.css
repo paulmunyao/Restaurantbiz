@@ -186,3 +186,17 @@
   margin-left: 110px;
   margin-top: -55px;
 }
+#po{
+  text-align: center;
+  padding-top: 100px;
+}
+#pau{
+  border-radius: 60px;
+  border: none;
+  height: 70px;
+  width: 190px;
+  font-size: 18px;
+  color: #f9f6f2;
+  background-color: #c65102 ;
+  margin-right: 190px;
+}
