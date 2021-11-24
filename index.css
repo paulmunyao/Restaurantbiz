@@ -103,7 +103,7 @@
 }
 #three {
   border: 2px solid red;
-  height: 1520px;
+  height: 2020px;
   width: 1700px;
   background-color: whitesmoke;
 }
@@ -130,35 +130,45 @@
   margin-left: 750px;
   margin-top: 20px;
 }
-#four{
+#four {
   background-color: white;
+  height: 540px;
+  width: 250px;
+  margin-right: 50px;
+  margin-top: 70px;
 }
 #spi img {
   height: 250px;
   width: 250px;
-  margin-left: 120px;
-  padding-top: 50px;
+  padding-bottom: 40px;
 }
-.rate{
+.rate {
   font-size: 20px;
-  margin-left: 140px;
+  margin-left: 20px;
   margin-top: 20px;
   color: #ee7600;
 }
-#cey{
-  margin-left: 140px;
+#cey {
+  margin-left: 20px;
 }
-#cey h3{
+#cey h3 {
   font-family: "Oleo Script Swash Caps";
-  font-size: 30px;
+  font-size: 15px;
   font-weight: lighter;
 }
-#cey p{
+#cey p {
   font-family: "Roboto";
   color: grey;
-  font-size: 22px;
+  font-size: 12px;
 }
-#ton{
+#ola{
+  border: 60px;
+  height: 20px;
+  width: 40px;
+  margin-left: 20px;
+  background-color: #ee7600;
+}
+#ton {
   border-radius: 60px;
   height: 40px;
   width: 120px;
@@ -166,4 +176,9 @@
   color: #ee7600;
   background-color: #f9f6f2;
   border: none;
+}
+.row1{
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: 10px;
 }
