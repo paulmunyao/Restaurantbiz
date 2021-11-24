@@ -158,3 +158,12 @@
   color: grey;
   font-size: 22px;
 }
+#ton{
+  border-radius: 60px;
+  height: 40px;
+  width: 120px;
+  font-size: 19px;
+  color: #ee7600;
+  background-color: #f9f6f2;
+  border: none;
+}
