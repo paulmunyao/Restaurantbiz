@@ -132,10 +132,10 @@
 }
 #four {
   background-color: white;
-  height: 540px;
-  width: 250px;
+  height: 530px;
+  width: 280px;
   margin-right: 50px;
-  margin-top: 70px;
+  margin-top: 90px;
 }
 #spi img {
   height: 250px;
@@ -145,26 +145,26 @@
 .rate {
   font-size: 20px;
   margin-left: 20px;
-  margin-top: 20px;
+  margin-top: -20px;
   color: #ee7600;
 }
 #cey {
-  margin-left: 20px;
+  margin-left: 20px; 
 }
 #cey h3 {
   font-family: "Oleo Script Swash Caps";
-  font-size: 15px;
+  font-size: 25px;
   font-weight: lighter;
 }
 #cey p {
   font-family: "Roboto";
   color: grey;
-  font-size: 12px;
+  font-size: 17px;
 }
-#ola{
+#ola {
   border: 60px;
-  height: 20px;
-  width: 40px;
+  height: 30px;
+  width: 45px;
   margin-left: 30px;
   background-color: #ee7600;
 }
@@ -177,7 +177,7 @@
   background-color: #f9f6f2;
   border: none;
 }
-.row1{
+.row1 {
   display: flex;
   justify-content: space-evenly;
   margin-left: 10px;
