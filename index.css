@@ -80,7 +80,13 @@
   font-weight: 300px;
   font-size: 60px;
   font-weight: lighter;
-  border-bottom: 3px solid #ee7600;
+}
+#abt h1::after{
+  content: "";
+  display: block;
+  height: 3px;
+  width: 155px;
+  background-color: #ee7600;
 }
 #abt p{
   font-size: 21px;
@@ -102,4 +108,23 @@
 #men{
   text-align: center;
   padding-top: 70px;
+}
+#nu{
+  font-family: "Oleo Script Swash Caps";
+  font-size: 55px;
+  font-weight: lighter;
+}
+#eu{
+  font-size: 20px;
+  font-family: "Roboto";
+  margin-top: -20px; 
+}
+#men p::after{
+  content: "";
+  display: block;
+  height: 2px;
+  width: 155px;
+  background-color: #ee7600;
+  margin-left: 750px;
+  margin-top: 20px;
 }
