@@ -179,6 +179,5 @@
 }
 .row1 {
   display: flex;
-  justify-content: space-evenly;
-  margin-left: 10px;
+  margin-left: 110px;
 }
