@@ -243,7 +243,10 @@
   text-align: center;
   margin-left: 90px;
 }
-.ger{
+.ger1{
+  display: flex;
+}
+.ger2{
   display: flex;
 }
 
