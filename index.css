@@ -339,3 +339,31 @@
   margin-left: 700px;
   margin-top: 20px;
 }
+#jina{
+  margin-left: 250px;
+  padding-top: 50px;
+}
+#nm{
+  border: 60px;
+  height: 50px;
+  width: 1000px;
+}
+#em{
+  margin-right: 850px;
+  font-size: 18px;
+  color: grey;
+}
+#tuvuti{
+  margin-left: -1px;
+  padding-top: 30px;
+}
+#mn{
+  border: 60px;
+  height: 50px;
+  width: 1000px;
+}
+#mail{
+  margin-right: 850px;
+  font-size: 18px;
+  color: grey;
+}
