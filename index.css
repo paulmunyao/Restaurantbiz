@@ -202,7 +202,7 @@
 }
 #fifth{
   border: 2px solid red;
-  height: 920px;
+  height: 950px;
   width: 90.1%;
 }
 #wy{
@@ -248,5 +248,33 @@
 }
 .ger2{
   display: flex;
+}
+#sixth{
+  border: 2px solid red;
+  height: 950px;
+  width: 90.1%;
+}
+#custom{
+  text-align: center;
+  padding-top: 90px;
+}
+#custom h1{
+  font-family: "Oleo Script Swash Caps";
+  font-weight: lighter;
+  font-size: 45px;
+}
+#custom p{
+  font-size: 20px;
+  font-family: "Roboto";
+  margin-top: -10px;
+}
+#custom p::after {
+  content: "";
+  display: block;
+  height: 2px;
+  width: 155px;
+  background-color: #ee7600;
+  margin-left: 690px;
+  margin-top: 20px;
 }
 
