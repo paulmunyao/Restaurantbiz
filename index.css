@@ -283,12 +283,15 @@
 #rau img{
   height: 120px;
   margin-left: 120px;
+  padding-top: 60px;
 }
 #ra{
   text-align: center;
 }
 #him{
   text-align: center;
+  font-family: "Oleo Script Swash Caps";
+  font-weight: lighter;
 }
 .rat {
   font-size: 20px;
@@ -300,5 +303,7 @@
 #gin{
   background-color: #ee7600;
   width: 370px;
-  height: 360px;
+  height: 430px;
+  margin-left: 105px;
+  margin-top: 60px;
 }
