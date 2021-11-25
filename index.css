@@ -251,7 +251,7 @@
 }
 #sixth {
   border: 2px solid red;
-  height: 950px;
+  height: 890px;
   width: 90.1%;
 }
 #pic{
@@ -303,9 +303,39 @@
   color: #ee7600;
 }
 #gin{
-  background-color: #ee7600;
+  background-color: white;
   width: 370px;
   height: 430px;
   margin-left: 105px;
   margin-top: 60px;
+}
+.fon{
+  display: flex;
+}
+#seventh{
+  border: 2px solid red;
+  height: 890px;
+  width: 90.1%;
+}
+#eve{
+  text-align: center;
+  padding-top: 60px;
+}
+#eve h1{
+  font-family: "Oleo Script Swash Caps";
+  font-weight: lighter;
+  font-size: 50px;
+}
+#eve p{
+  font-size: 20px;
+  margin-top: -35px;
+}
+#eve p::after {
+  content: "";
+  display: block;
+  height: 3px;
+  width: 155px;
+  background-color: #ee7600;
+  margin-left: 700px;
+  margin-top: 20px;
 }
