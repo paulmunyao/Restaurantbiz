@@ -1,8 +1,12 @@
+/* body{
+  overflow-x: hidden;
+} */
 #open {
   border: 3px solid red;
   height: 750px;
-  width: 90%;
+  width: 1090px;
 }
+
 #log h2 {
   font-size: 35px;
   font-family: "Lobster";
@@ -10,77 +14,93 @@
   margin-left: 90px;
   padding-top: 15px;
 }
+
 #nav {
   margin-right: 100px;
   margin-top: -50px;
 }
+
 #nav li {
   float: right;
   margin-right: 20px;
   list-style: none;
 }
+
 #nav li a {
   margin-right: 20px;
 }
+
 #picha {
   background-image: url("images/");
 }
+
 #del h1 {
   font-size: 80px;
   text-align: center;
   font-family: "Oleo Script Swash Caps";
   font-weight: 500;
 }
+
 #del p {
   text-align: center;
-  font-size: 20px;
+  font-size: 15px;
   font-family: "Roboto";
 }
+
 #btn {
-  margin-left: 700px;
+  margin-left: 450px;
   border-radius: 80px;
   height: 50px;
   width: 150px;
   background-color: #ee7600;
   border: none;
 }
+
 #del {
   padding-top: 100px;
 }
+
 #sec {
   border: 2px solid red;
   height: 720px;
   width: 90.1%;
 }
+
 #fork {
   height: 470px;
   padding-bottom: 130px;
 }
+
 #chap {
   height: 219px;
   padding-bottom: 381px;
   margin-left: 35px;
 }
+
 #mel {
   height: 219px;
   margin-left: -249px;
   padding-bottom: 130px;
 }
+
 #tog {
   margin-left: 100px;
   padding-top: 110px;
 }
+
 #abt {
   float: right;
   padding-top: 10px;
   margin-right: 140px;
 }
+
 #abt h1 {
   font-family: "Oleo Script Swash Caps";
   font-weight: 300px;
   font-size: 60px;
   font-weight: lighter;
 }
+
 #abt h1::after {
   content: "";
   display: block;
@@ -88,9 +108,11 @@
   width: 155px;
   background-color: #ee7600;
 }
+
 #abt p {
   font-size: 21px;
 }
+
 #on {
   border-radius: 60px;
   height: 60px;
@@ -101,26 +123,31 @@
   background-color: #ee7600;
   border: none;
 }
+
 #three {
   border: 2px solid red;
   height: 1780px;
   width: 1700px;
   background-color: whitesmoke;
 }
+
 #men {
   text-align: center;
   padding-top: 70px;
 }
+
 #nu {
   font-family: "Oleo Script Swash Caps";
   font-size: 55px;
   font-weight: lighter;
 }
+
 #eu {
   font-size: 20px;
   font-family: "Roboto";
   margin-top: -20px;
 }
+
 #men p::after {
   content: "";
   display: block;
@@ -130,6 +157,7 @@
   margin-left: 750px;
   margin-top: 20px;
 }
+
 #four {
   background-color: white;
   height: 530px;
@@ -137,30 +165,36 @@
   margin-right: 50px;
   margin-top: 90px;
 }
+
 #spi img {
   height: 250px;
   width: 280px;
   padding-bottom: 40px;
 }
+
 .rate {
   font-size: 20px;
   margin-left: 20px;
   margin-top: -20px;
   color: #ee7600;
 }
+
 #cey {
   margin-left: 20px;
 }
+
 #cey h3 {
   font-family: "Oleo Script Swash Caps";
   font-size: 25px;
   font-weight: lighter;
 }
+
 #cey p {
   font-family: "Roboto";
   color: grey;
   font-size: 17px;
 }
+
 #ola {
   border: 60px;
   height: 30px;
@@ -168,6 +202,7 @@
   margin-left: 30px;
   background-color: #ee7600;
 }
+
 #ton {
   border-radius: 60px;
   height: 40px;
@@ -177,19 +212,23 @@
   background-color: #f9f6f2;
   border: none;
 }
+
 .row1 {
   display: flex;
   margin-left: 110px;
 }
+
 .row2 {
   display: flex;
   margin-left: 110px;
   margin-top: -55px;
 }
+
 #po {
   text-align: center;
   padding-top: 100px;
 }
+
 #pau {
   border-radius: 60px;
   border: none;
@@ -200,24 +239,29 @@
   background-color: #c65102;
   margin-right: 190px;
 }
+
 #fifth {
   border: 2px solid red;
   height: 950px;
   width: 90.1%;
 }
+
 #wy {
   text-align: center;
   padding-top: 60px;
 }
+
 #wy h1 {
   font-family: "Oleo Script Swash Caps";
   font-weight: lighter;
   font-size: 70px;
 }
+
 #wy p {
   font-size: 25px;
   margin-top: -35px;
 }
+
 #wy p::after {
   content: "";
   display: block;
@@ -227,50 +271,61 @@
   margin-left: 700px;
   margin-top: 20px;
 }
+
 .ser img {
   height: 60px;
   padding-top: 50px;
   position: relative;
   margin-left: 235px;
 }
+
 .ser h2 {
   font-family: "Oleo Script Swash Caps";
   font-weight: lighter;
   margin-left: 230px;
 }
+
 .ser p {
   font-size: 20px;
   text-align: center;
   margin-left: 90px;
 }
+
 .ger1 {
   display: flex;
 }
+
 .ger2 {
   display: flex;
 }
+
 #sixth {
   border: 2px solid red;
   height: 890px;
   width: 90.1%;
 }
+
 #pic{
   background-image: url("images/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__2015__03__20150310-sichuan-wonton-chili-oil-recipe-new-1-267bae64def94fa9961b98aaa6bf302d.jpg");
 }
+
 #custom {
   text-align: center;
   padding-top: 90px;
 }
+
 #custom h1 {
   font-family: "Oleo Script Swash Caps";
   font-weight: lighter;
   font-size: 45px;
 }
+
 #custom p {
   font-size: 20px;
   font-family: "Roboto";
   margin-top: -10px;
 }
+
 #custom p::after {
   content: "";
   display: block;
@@ -280,21 +335,25 @@
   margin-left: 690px;
   margin-top: 20px;
 }
+
 #rau img{
   height: 120px;
   margin-left: 120px;
   padding-top: 60px;
 }
+
 #ra{
   text-align: center;
   font-family: "Roboto";
   font-size: 19px;
 }
+
 #him{
   text-align: center;
   font-family: "Oleo Script Swash Caps";
   font-weight: lighter;
 }
+
 .rat {
   font-size: 20px;
   margin-left: 20px;
@@ -302,6 +361,7 @@
   margin-left: 120px;
   color: #ee7600;
 }
+
 #gin{
   background-color: white;
   width: 370px;
@@ -309,27 +369,33 @@
   margin-left: 105px;
   margin-top: 60px;
 }
+
 .fon{
   display: flex;
 }
+
 #seventh{
   border: 2px solid red;
   height: 890px;
   width: 90.1%;
 }
+
 #eve{
   text-align: center;
   padding-top: 60px;
 }
+
 #eve h1{
   font-family: "Oleo Script Swash Caps";
   font-weight: lighter;
   font-size: 50px;
 }
+
 #eve p{
   font-size: 20px;
   margin-top: -35px;
 }
+
 #eve p::after {
   content: "";
   display: block;
@@ -339,34 +405,6 @@
   margin-left: 700px;
   margin-top: 20px;
 }
-#jina{
-  margin-left: 250px;
-  padding-top: 50px;
-}
-#nm{
-  border: 60px;
-  height: 50px;
-  width: 1000px;
-}
-#em{
-  margin-right: 850px;
-  font-size: 18px;
-  color: grey;
-}
-#tuvuti{
-  margin-left: -1px;
-  padding-top: 30px;
-}
-#mn{
-  border: 60px;
-  height: 50px;
-  width: 1000px;
-}
-#mail{
-  margin-right: 850px;
-  font-size: 18px;
-  color: grey;
-}
-#no{
-  padding-top: 30px;
-}
+
+
+
