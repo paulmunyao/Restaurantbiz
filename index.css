@@ -1,7 +1,7 @@
-/* body{
+body{
   overflow-x: hidden;
-} */
-#open {
+}
+.open {
   border: 3px solid red;
   height: 750px;
   width: 1090px;
@@ -60,27 +60,27 @@
   padding-top: 100px;
 }
 
-#sec {
-  border: 2px solid red;
-  height: 720px;
-  width: 90.1%;
+.sec {
+  border: 3px solid red;
+  height: 580px;
+  width: 1090px;
 }
 
 #fork {
-  height: 470px;
-  padding-bottom: 130px;
+  height: 370px;
+  margin-bottom: 300px;
 }
 
 #chap {
-  height: 219px;
-  padding-bottom: 381px;
-  margin-left: 35px;
+  height: 170px;
+  padding-bottom: 500px;
+  margin-left: 40px;
 }
 
 #mel {
-  height: 219px;
-  margin-left: -249px;
-  padding-bottom: 130px;
+  height: 170px;
+  margin-left: -195px;
+  padding-bottom: 300px;
 }
 
 #tog {
@@ -90,18 +90,22 @@
 
 #abt {
   float: right;
-  padding-top: 10px;
+  margin-top: -5px;
   margin-right: 140px;
 }
 
 #abt h1 {
   font-family: "Oleo Script Swash Caps";
   font-weight: 300px;
-  font-size: 60px;
+  font-size: 40px;
   font-weight: lighter;
 }
 
-#abt h1::after {
+#abt p {
+  font-size: 15px;
+}
+
+#tog h1::after {
   content: "";
   display: block;
   height: 3px;
@@ -109,14 +113,10 @@
   background-color: #ee7600;
 }
 
-#abt p {
-  font-size: 21px;
-}
-
 #on {
   border-radius: 60px;
-  height: 60px;
-  width: 160px;
+  height: 40px;
+  width: 130px;
   font-size: 15px;
   color: white;
   font-family: "Roboto";
@@ -124,7 +124,7 @@
   border: none;
 }
 
-#three {
+.three {
   border: 2px solid red;
   height: 1780px;
   width: 1700px;
