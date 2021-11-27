@@ -108,8 +108,9 @@ body{
 #tog h1::after {
   content: "";
   display: block;
-  height: 3px;
-  width: 155px;
+  height: 2px;
+  width: 100px;
+  margin-top: 15px;
   background-color: #ee7600;
 }
 
@@ -125,25 +126,26 @@ body{
 }
 
 .three {
-  border: 2px solid red;
-  height: 1780px;
-  width: 1700px;
+  border: 3px solid red;
+  height: 1700px;
+  width: 1090px;
   background-color: whitesmoke;
 }
 
 #men {
   text-align: center;
-  padding-top: 70px;
+  margin-right: -20px;
+  padding-top: 50px;
 }
 
 #nu {
   font-family: "Oleo Script Swash Caps";
-  font-size: 55px;
+  font-size: 40px;
   font-weight: lighter;
 }
 
 #eu {
-  font-size: 20px;
+  font-size: 15px;
   font-family: "Roboto";
   margin-top: -20px;
 }
@@ -152,9 +154,9 @@ body{
   content: "";
   display: block;
   height: 2px;
-  width: 155px;
+  width: 115px;
   background-color: #ee7600;
-  margin-left: 750px;
+  margin-left: 495px;
   margin-top: 20px;
 }
 
