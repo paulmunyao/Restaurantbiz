@@ -16,13 +16,13 @@ body{
 }
 
 #nav {
-  margin-right: 100px;
+  margin-right: 120px;
   margin-top: -50px;
 }
 
 #nav li {
   float: right;
-  margin-right: 20px;
+  margin-right: -5px;
   list-style: none;
 }
 
@@ -162,54 +162,54 @@ body{
 
 #four {
   background-color: white;
-  height: 530px;
-  width: 280px;
+  height: 300px;
+  width: 150px;
   margin-right: 50px;
   margin-top: 90px;
 }
 
 #spi img {
-  height: 250px;
-  width: 280px;
+  height: 135px;
+  width: 150px;
   padding-bottom: 40px;
 }
 
 .rate {
-  font-size: 20px;
+  font-size: 12px;
   margin-left: 20px;
   margin-top: -20px;
   color: #ee7600;
 }
 
-#cey {
+.cey {
   margin-left: 20px;
 }
 
 #cey h3 {
   font-family: "Oleo Script Swash Caps";
-  font-size: 25px;
+  font-size: 12px;
   font-weight: lighter;
 }
 
 #cey p {
   font-family: "Roboto";
   color: grey;
-  font-size: 17px;
+  font-size: 9px;
 }
 
-#ola {
-  border: 60px;
-  height: 30px;
-  width: 45px;
+.ola {
+  border: 40px;
+  height: 15px;
+  width: 25px;
   margin-left: 30px;
   background-color: #ee7600;
 }
 
 #ton {
   border-radius: 60px;
-  height: 40px;
-  width: 120px;
-  font-size: 19px;
+  height: 20px;
+  width: 80px;
+  font-size: 10px;
   color: #ee7600;
   background-color: #f9f6f2;
   border: none;
