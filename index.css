@@ -14,11 +14,13 @@ body {
   font-weight: 400;
   margin-left: 90px;
   padding-top: 15px;
+  color: white;
 }
 
 #nav {
   margin-right: 120px;
   margin-top: -50px;
+  color: white;
 }
 
 #nav li {
@@ -31,8 +33,17 @@ body {
   margin-right: 20px;
 }
 
-#picha {
-  background-image: url("images/");
+.picha {
+  background-image: url("images/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__2015__03__20150310-sichuan-wonton-chili-oil-recipe-new-1-267bae64def94fa9961b98aaa6bf302d.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 750px;
+  width: 1090px;
+}
+
+#del{
+  color: white;
 }
 
 #del h1 {
@@ -55,6 +66,7 @@ body {
   width: 150px;
   background-color: #ee7600;
   border: none;
+  color: white;
 }
 
 #del {
@@ -413,31 +425,31 @@ body {
   margin-top: 20px;
 }
 
-.POST{
+.POST {
   padding-top: 30px;
   margin-left: 180px;
 }
-.jina{
+.jina {
   height: 30px;
   width: 670px;
   background-color: #f9f6f2;
   border: none;
 }
-.tuvuti{
+.tuvuti {
   height: 30px;
   width: 670px;
   margin-top: 25px;
   background-color: #f9f6f2;
   border: none;
 }
-.namba{
+.namba {
   height: 30px;
   width: 310px;
   margin-top: 25px;
   background-color: #f9f6f2;
   border: none;
 }
-.pple{
+.pple {
   height: 30px;
   width: 310px;
   margin-top: 25px;
@@ -445,14 +457,14 @@ body {
   background-color: #f9f6f2;
   border: none;
 }
-.tarehe{
+.tarehe {
   height: 30px;
   width: 310px;
   margin-top: 25px;
   background-color: #f9f6f2;
   border: none;
 }
-.wakati{
+.wakati {
   height: 30px;
   width: 310px;
   margin-top: 25px;
@@ -460,7 +472,7 @@ body {
   background-color: #f9f6f2;
   border: none;
 }
-.ujumbe{
+.ujumbe {
   height: 140px;
   width: 670px;
   margin-top: 25px;
@@ -473,12 +485,12 @@ body {
   margin-top: -100px;
 } */
 
-#lore{
+#lore {
   text-align: center;
   padding-top: 50px;
 }
 
-#ore{
+#ore {
   border-radius: 60px;
   height: 35px;
   width: 100px;
@@ -488,31 +500,31 @@ body {
   color: white;
 }
 
-.eigth{
+.eigth {
   border: 2px solid red;
   height: 300px;
   width: 90.1%;
 }
 
-.moja{
+.moja {
   display: inline-flex;
   justify-content: space-evenly;
   margin-left: 80px;
   padding-top: 70px;
 }
 
-.bari h1{
+.bari h1 {
   margin-left: 90px;
   font-family: "Oleo Script Swash Caps";
   font-weight: lighter;
 }
 
-.bari p{
+.bari p {
   margin-left: 70px;
   margin-top: -10px;
 }
 
-.bari p::after{
+.bari p::after {
   content: "";
   display: block;
   height: 2px;
@@ -522,14 +534,14 @@ body {
   margin-top: 20px;
 }
 
-.ninth{
+.ninth {
   border: 2px solid red;
   height: 350px;
   width: 90.1%;
-  background-color:#231F20;
+  background-color: #231f20;
 }
 
-#og{
+#og {
   font-size: 15px;
   font-family: "Oleo Script Swash Caps";
   font-weight: lighter;
@@ -538,13 +550,13 @@ body {
   color: whitesmoke;
 }
 
-#og p{
+#og p {
   font-family: "Roboto";
   font-size: 14px;
-  color: hsla(34, 37%, 96%, 0.623)
+  color: hsla(34, 37%, 96%, 0.623);
 }
 
-#con{
+#con {
   font-size: 15px;
   padding-top: 80px;
   margin-left: 80px;
@@ -553,13 +565,13 @@ body {
   color: whitesmoke;
 }
 
-#con p{
+#con p {
   font-family: "Roboto";
   font-size: 14px;
-  color: hsla(34, 37%, 96%, 0.623)
+  color: hsla(34, 37%, 96%, 0.623);
 }
 
-#ibe{
+#ibe {
   font-size: 15px;
   padding-top: 80px;
   margin-left: 70px;
@@ -568,13 +580,13 @@ body {
   color: whitesmoke;
 }
 
-.ml{
+.ml {
   height: 20px;
   background-color: hsla(34, 37%, 96%, 0.623);
   color: hsl(34, 37%, 96%);
   border: none;
 }
-#scri{
+#scri {
   height: 25px;
   width: 180px;
   margin-top: 10px;
@@ -583,28 +595,27 @@ body {
   color: whitesmoke;
 }
 
-#crib{
+#crib {
   display: inline-flex;
 }
 
-.tenth{
+.tenth {
   border: 2px solid red;
   height: 80px;
   width: 90.1%;
-  background-color:#231F20;
+  background-color: #231f20;
 }
 
-.footer{
-  padding-top:5px;
+.footer {
+  padding-top: 5px;
   margin-left: 90px;
   color: whitesmoke;
 }
 
-.med img{
+.med img {
   height: 30px;
-  color: #231F20;
+  color: #231f20;
   float: right;
   margin-right: 50px;
   margin-top: -40px;
 }
-
