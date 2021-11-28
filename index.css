@@ -2,7 +2,7 @@ body {
   overflow-x: hidden;
 }
 .open {
-  border: 3px solid red;
+  border: 3px solid white;
   height: 750px;
   width: 1090px;
 }
@@ -74,7 +74,7 @@ body {
 }
 
 .sec {
-  border: 3px solid red;
+  border: 3px solid white;
   height: 580px;
   width: 1090px;
 }
@@ -139,7 +139,7 @@ body {
 }
 
 .three {
-  border: 3px solid red;
+  border: 3px solid white;
   height: 1250px;
   width: 1150px;
   background-color: whitesmoke;
@@ -259,7 +259,7 @@ body {
 }
 
 #fifth {
-  border: 2px solid red;
+  border: 2px solid white;
   height: 820px;
   width: 1090px;
 }
@@ -319,7 +319,7 @@ body {
 }
 
 #sixth {
-  border: 2px solid red;
+  border: 2px solid white;
   height: 740px;
   width: 1090px;
 }
@@ -336,6 +336,7 @@ body {
 #custom {
   text-align: center;
   padding-top: 90px;
+  color: white;
 }
 
 #custom h1 {
@@ -388,9 +389,9 @@ body {
 
 #gin {
   background-color: white;
-  width: 370px;
+  width: 240px;
   height: 350px;
-  margin-left: 105px;
+  margin-left: 90px;
   margin-top: 60px;
 }
 
@@ -399,7 +400,7 @@ body {
 }
 
 #seventh {
-  border: 2px solid red;
+  border: 2px solid white;
   height: 800px;
   width: 90.1%;
 }
@@ -506,7 +507,7 @@ body {
 }
 
 .eigth {
-  border: 2px solid red;
+  border: 2px solid white;
   height: 300px;
   width: 90.1%;
 }
@@ -551,7 +552,7 @@ body {
 }
 
 .ninth {
-  border: 2px solid red;
+  border: 2px solid white;
   height: 350px;
   width: 90.1%;
   background-color: #231f20;
@@ -616,7 +617,7 @@ body {
 }
 
 .tenth {
-  border: 2px solid red;
+  border: 2px solid white;
   height: 80px;
   width: 90.1%;
   background-color: #231f20;
