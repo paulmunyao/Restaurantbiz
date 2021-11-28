@@ -9,7 +9,8 @@ body {
 
 #log h2 {
   font-size: 35px;
-  font-family: "Lobster";
+  font-family: "Oleo Script Swash Caps";
+  font-weight: lighter;
   font-weight: 400;
   margin-left: 90px;
   padding-top: 15px;
@@ -382,7 +383,7 @@ body {
 
 #seventh {
   border: 2px solid red;
-  height: 890px;
+  height: 800px;
   width: 90.1%;
 }
 
@@ -419,38 +420,52 @@ body {
 .jina{
   height: 30px;
   width: 670px;
+  background-color: #f9f6f2;
+  border: none;
 }
 .tuvuti{
   height: 30px;
   width: 670px;
   margin-top: 25px;
+  background-color: #f9f6f2;
+  border: none;
 }
 .namba{
   height: 30px;
   width: 310px;
   margin-top: 25px;
+  background-color: #f9f6f2;
+  border: none;
 }
 .pple{
   height: 30px;
   width: 310px;
   margin-top: 25px;
   margin-left: 38px;
+  background-color: #f9f6f2;
+  border: none;
 }
 .tarehe{
   height: 30px;
   width: 310px;
   margin-top: 25px;
+  background-color: #f9f6f2;
+  border: none;
 }
 .wakati{
   height: 30px;
   width: 310px;
   margin-top: 25px;
   margin-left: 38px;
+  background-color: #f9f6f2;
+  border: none;
 }
 .ujumbe{
   height: 140px;
   width: 670px;
   margin-top: 25px;
+  background-color: #f9f6f2;
+  border: none;
 }
 
 ::-webkit-input-placeholder { 
@@ -471,5 +486,62 @@ body {
   background-color: #ee7600;
   border: none;
   color: white;
+}
+
+.eigth{
+  border: 2px solid red;
+  height: 300px;
+  width: 90.1%;
+}
+
+.moja{
+  display: inline-flex;
+  justify-content: space-evenly;
+  margin-left: 80px;
+  padding-top: 70px;
+}
+
+.bari h1{
+  margin-left: 90px;
+  font-family: "Oleo Script Swash Caps";
+  font-weight: lighter;
+}
+
+.bari p{
+  margin-left: 70px;
+  margin-top: -10px;
+}
+
+.bari p::after{
+  content: "";
+  display: block;
+  height: 2px;
+  width: 55px;
+  background-color: #ee7600;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+
+.ninth{
+  border: 2px solid red;
+  height: 350px;
+  width: 90.1%;
+  background-color: #555555;;
+}
+
+#og{
+  font-size: 15px;
+  font-family: "Oleo Script Swash Caps";
+  font-weight: lighter;
+  font-weight: 400;
+  margin-left: 90px;
+  padding-top: 80px;
+}
+
+#og p{
+  font-family: "Roboto";
+  font-size: 14px;
+  color: #f9f6f2;
+  
 }
 
