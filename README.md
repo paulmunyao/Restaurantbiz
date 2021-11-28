@@ -1,6 +1,6 @@
-# REstaurant Biz
+# Restaurantbiz
 
-The project is about a landing page for restaurant called Moringa Restaurant.The aim is to come up with a very interactive page where it is easier to navigate while testing prior to the release of the official website.
+The project is about a landing page for restaurant called Restaurantbiz.The aim is to come up with a very interactive page where it is easier to navigate while testing prior to the release of the official website.
 
 ## setup
 1)Install VScode<br>2)write your codes install a live server<br>3)push your code to the remote server
