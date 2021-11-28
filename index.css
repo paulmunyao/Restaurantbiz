@@ -468,10 +468,10 @@ body {
   border: none;
 }
 
-::-webkit-input-placeholder { 
+/* ::-webkit-input-placeholder { 
   color: #e91030;
   margin-top: -100px;
-}
+} */
 
 #lore{
   text-align: center;
@@ -524,7 +524,7 @@ body {
 
 .ninth{
   border: 2px solid red;
-  height: 350px;
+  height: 950px;
   width: 90.1%;
   background-color: #555555;;
 }
@@ -533,7 +533,6 @@ body {
   font-size: 15px;
   font-family: "Oleo Script Swash Caps";
   font-weight: lighter;
-  font-weight: 400;
   margin-left: 90px;
   padding-top: 80px;
 }
@@ -541,7 +540,28 @@ body {
 #og p{
   font-family: "Roboto";
   font-size: 14px;
-  color: #f9f6f2;
-  
+  color: #f9f6f2
+}
+
+#con{
+  font-size: 15px;
+  font-family: "Oleo Script Swash Caps";
+  font-weight: lighter;
+}
+
+#con p{
+  font-family: "Roboto";
+  font-size: 14px;
+  color: #f9f6f2
+}
+
+#ibe{
+  font-size: 15px;
+  font-family: "Oleo Script Swash Caps";
+  font-weight: lighter;
+}
+
+#crib{
+  display: inline-flex;
 }
 
