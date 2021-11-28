@@ -324,8 +324,13 @@ body {
   width: 1090px;
 }
 
-#pic {
-  background-image: url("images/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__2015__03__20150310-sichuan-wonton-chili-oil-recipe-new-1-267bae64def94fa9961b98aaa6bf302d.jpg");
+.pic {
+  background-image: url("images/spiced.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 740px;
+  width: 1090px;
 }
 
 #custom {
@@ -384,7 +389,7 @@ body {
 #gin {
   background-color: white;
   width: 370px;
-  height: 430px;
+  height: 350px;
   margin-left: 105px;
   margin-top: 60px;
 }
@@ -506,6 +511,15 @@ body {
   width: 90.1%;
 }
 
+.bur{
+  background-image: url("images/give.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  width: 100%;
+}
+
 .moja {
   display: inline-flex;
   justify-content: space-evenly;
@@ -517,11 +531,13 @@ body {
   margin-left: 90px;
   font-family: "Oleo Script Swash Caps";
   font-weight: lighter;
+  color: white;
 }
 
 .bari p {
   margin-left: 70px;
   margin-top: -10px;
+  color: white;
 }
 
 .bari p::after {
