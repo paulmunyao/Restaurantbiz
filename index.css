@@ -524,9 +524,9 @@ body {
 
 .ninth{
   border: 2px solid red;
-  height: 950px;
+  height: 350px;
   width: 90.1%;
-  background-color: #555555;;
+  background-color:#231F20;
 }
 
 #og{
@@ -535,33 +535,76 @@ body {
   font-weight: lighter;
   margin-left: 90px;
   padding-top: 80px;
+  color: whitesmoke;
 }
 
 #og p{
   font-family: "Roboto";
   font-size: 14px;
-  color: #f9f6f2
+  color: hsla(34, 37%, 96%, 0.623)
 }
 
 #con{
   font-size: 15px;
+  padding-top: 80px;
+  margin-left: 80px;
   font-family: "Oleo Script Swash Caps";
   font-weight: lighter;
+  color: whitesmoke;
 }
 
 #con p{
   font-family: "Roboto";
   font-size: 14px;
-  color: #f9f6f2
+  color: hsla(34, 37%, 96%, 0.623)
 }
 
 #ibe{
   font-size: 15px;
+  padding-top: 80px;
+  margin-left: 70px;
   font-family: "Oleo Script Swash Caps";
   font-weight: lighter;
+  color: whitesmoke;
+}
+
+.ml{
+  height: 20px;
+  background-color: hsla(34, 37%, 96%, 0.623);
+  color: hsl(34, 37%, 96%);
+  border: none;
+}
+#scri{
+  height: 25px;
+  width: 180px;
+  margin-top: 10px;
+  background-color: #ee7600;
+  border: none;
+  color: whitesmoke;
 }
 
 #crib{
   display: inline-flex;
+}
+
+.tenth{
+  border: 2px solid red;
+  height: 80px;
+  width: 90.1%;
+  background-color:#231F20;
+}
+
+.footer{
+  padding-top:5px;
+  margin-left: 90px;
+  color: whitesmoke;
+}
+
+.med img{
+  height: 30px;
+  color: #231F20;
+  float: right;
+  margin-right: 50px;
+  margin-top: -40px;
 }
 
