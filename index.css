@@ -1,10 +1,14 @@
 body {
   overflow-x: hidden;
+  border: none;
+  padding: 0px;
+  margin: 0px;
+  width: 100%;
 }
 .open {
   border: 3px solid white;
   height: 750px;
-  width: 1090px;
+  width: 100%;
 }
 
 #log h2 {
@@ -39,7 +43,7 @@ body {
   background-position: center;
   background-size: cover;
   height: 750px;
-  width: 1090px;
+  width: 100%;
 }
 
 #del{
@@ -76,7 +80,7 @@ body {
 .sec {
   border: 3px solid white;
   height: 580px;
-  width: 1090px;
+  width: 100%;
 }
 
 #fork {
@@ -118,10 +122,10 @@ body {
   font-size: 15px;
 }
 
-#tog h1::after {
+#abt h1::after {
   content: "";
   display: block;
-  height: 2px;
+  height: 1.5px;
   width: 100px;
   margin-top: 15px;
   background-color: #ee7600;
@@ -141,7 +145,7 @@ body {
 .three {
   border: 3px solid white;
   height: 1250px;
-  width: 1150px;
+  width: 100%;
   background-color: whitesmoke;
 }
 
@@ -166,17 +170,17 @@ body {
 #men p::after {
   content: "";
   display: block;
-  height: 2px;
+  height: 1.5px;
   width: 115px;
   background-color: #ee7600;
-  margin-left: 495px;
+  margin-left: 520px;
   margin-top: 20px;
 }
 
 #four {
   background-color: white;
   height: 315px;
-  width: 180px;
+  width: 100%;
   margin-right: 50px;
   margin-top: 90px;
 }
@@ -261,12 +265,12 @@ body {
 #fifth {
   border: 2px solid white;
   height: 820px;
-  width: 1090px;
+  width: 100%;
 }
 
 #wy {
   text-align: center;
-  padding-top: 60px;
+  padding-top: 30px;
 }
 
 #wy h1 {
@@ -278,6 +282,7 @@ body {
 #wy p {
   font-size: 15px;
   margin-top: -35px;
+  margin-top: 20px;
 }
 
 #wy p::after {
@@ -286,7 +291,7 @@ body {
   height: 2px;
   width: 100px;
   background-color: #ee7600;
-  margin-left: 490px;
+  margin-left: 520px;
   margin-top: 20px;
 }
 
@@ -321,7 +326,7 @@ body {
 #sixth {
   border: 2px solid white;
   height: 740px;
-  width: 1090px;
+  width: 100%;
 }
 
 .pic {
@@ -330,7 +335,7 @@ body {
   background-size: cover;
   background-position: center;
   height: 740px;
-  width: 1090px;
+  width: 100%;
 }
 
 #custom {
@@ -357,7 +362,7 @@ body {
   height: 2px;
   width: 100px;
   background-color: #ee7600;
-  margin-left: 490px;
+  margin-left: 520px;
   margin-top: 20px;
 }
 
@@ -402,12 +407,12 @@ body {
 #seventh {
   border: 2px solid white;
   height: 800px;
-  width: 90.1%;
+  width: 100%;
 }
 
 #eve {
   text-align: center;
-  padding-top: 60px;
+  padding-top: 40px;
 }
 
 #eve h1 {
@@ -427,7 +432,7 @@ body {
   height: 2px;
   width: 100px;
   background-color: #ee7600;
-  margin-left: 460px;
+  margin-left: 520px;
   margin-top: 20px;
 }
 
@@ -484,6 +489,7 @@ body {
   margin-top: 25px;
   background-color: #f9f6f2;
   border: none;
+  justify-content: initial;
 }
 
 /* ::-webkit-input-placeholder { 
@@ -509,7 +515,7 @@ body {
 .eigth {
   border: 2px solid white;
   height: 300px;
-  width: 1090px;
+  width: 100%;
 }
 
 .bur{
@@ -554,7 +560,7 @@ body {
 .ninth {
   border: 2px solid white;
   height: 350px;
-  width: 1090px;
+  width: 100%;
   background-color: #231f20;
 }
 
@@ -619,7 +625,7 @@ body {
 .tenth {
   border: 2px solid white;
   height: 80px;
-  width: 1090px;
+  width: 100%;
   background-color: #231f20;
 }
 
