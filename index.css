@@ -234,13 +234,13 @@ body {
 
 .row1 {
   display: inline-flex;
-  margin-left: 100px;
+  margin-left: 150px;
   justify-content: space-evenly;
 }
 
 .row2 {
   display: inline-flex;
-  margin-left: 100px;
+  margin-left: 150px;
   margin-top: -55px;
   justify-content: space-evenly;
 }
