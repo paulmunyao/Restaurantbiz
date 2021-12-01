@@ -515,7 +515,7 @@ text.ujumbe::placeholder{
 }
 
 .eigth {
-  border: 2px solid white;
+  /* border: 2px solid white; */
   height: 300px;
   width: 100%;
 }
@@ -560,7 +560,7 @@ text.ujumbe::placeholder{
 }
 
 .ninth {
-  border: 2px solid white;
+  /* border: 2px solid white; */
   height: 350px;
   width: 100%;
   background-color: #231f20;
@@ -625,7 +625,7 @@ text.ujumbe::placeholder{
 }
 
 .tenth {
-  border: 2px solid white;
+  /* border: 2px solid white; */
   height: 80px;
   width: 100%;
   background-color: #231f20;
