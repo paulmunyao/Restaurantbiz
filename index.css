@@ -491,12 +491,12 @@ body {
   border: none;
   justify-content: initial;
   padding: 0px;
+  color: grey;
 }
 
-text.ujumbe::placeholder{
-  margin: 0%;
-  padding: 0%
-  width
+textarea.ujumbe{
+  padding-top: 10px;
+  font-family: "Roboto"; 
 }
 
 #lore {
