@@ -490,12 +490,14 @@ body {
   background-color: #f9f6f2;
   border: none;
   justify-content: initial;
+  padding: 0px;
 }
 
-/* ::-webkit-input-placeholder { 
-  color: #e91030;
-  margin-top: -100px;
-} */
+text.ujumbe::placeholder{
+  margin: 0%;
+  padding: 0%
+  width
+}
 
 #lore {
   text-align: center;
@@ -642,3 +644,17 @@ body {
   margin-right: 50px;
   margin-top: -40px;
 }
+
+/* @media only screen and (min-width: 375px) {
+  body{
+    width: 100%;
+    background-color: aqua;
+    font-size: 10px;
+    padding: 0px;
+    background-image: 100%;
+  }
+}
+
+@media only screen and (orientation: potrait) {
+
+} */
